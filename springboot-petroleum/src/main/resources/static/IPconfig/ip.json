@@ -1,0 +1,27 @@
+{
+  "ip": "192.168.1.102",
+  "hikWebTopo": {
+    "ip": "192.168.1.66",
+    "port": "80",
+    "username": "admin",
+    "password": "zksp@616"
+  },
+  "hikConfig": [
+    {
+      "ip": "192.168.1.66",
+      "port": "80",
+      "username": "admin",
+      "password": "zksp@616",
+      "channelId":1,
+      "iStreamType":2
+    },
+    {
+      "ip": "192.168.1.64",
+      "port": "80",
+      "username": "admin",
+      "password": "zksp@616",
+      "channelId":1,
+      "iStreamType":2
+    }
+  ]
+}
